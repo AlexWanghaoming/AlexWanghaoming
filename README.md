@@ -1,10 +1,9 @@
 ## About me 👋
-      
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-
+- 🔭 I’m currently working on RL-based Fine-tuning in LLMs.
+- 🏫 I’m currently studying at Xi’an Jiaotong University, School of Automation Science and Engineering.
+- 📫 How to reach me: wanghm@stu.xjtu.edu.cn / whm568019240@gmail.com
+- 🖥 Research Interests: Reinforcement Learning / Embodied AI / Robotics
 
 ### ⭐️ &nbsp;Github Star
 
