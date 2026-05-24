@@ -5,10 +5,10 @@
 - 📫 How to reach me: wanghm@stu.xjtu.edu.cn / whm568019240@gmail.com
 - 🖥 Research Interests: Reinforcement Learning / Embodied AI / Robotics
 
-### ⭐️ &nbsp;Github Star
+### ⭐️ &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexWanghaoming&count_private=true&show_icons=true" />
+  <img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexWanghaoming&show_icons=true&hide_border=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
