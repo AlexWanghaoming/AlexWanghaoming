@@ -8,7 +8,7 @@
 ### ⭐️ &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="500px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexWanghaoming&show_icons=true&hide_border=true" />
+  <img width="500px" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlexWanghaoming&show_icons=true&hide_border=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
