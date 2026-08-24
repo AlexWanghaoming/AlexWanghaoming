@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on RL-based fine-tuning for LLMs.
 - 🏫 I’m currently studying at the School of Automation Science and Engineering, Xi’an Jiaotong University.
 - 📫 Reach me at: [wanghm@stu.xjtu.edu.cn](mailto:wanghm@stu.xjtu.edu.cn) / [whm568019240@gmail.com](mailto:whm568019240@gmail.com)
-- 🖥️ Research interests: Reinforcement Learning / Embodied AI / Robotics
+- 🖥️ Research interests: Reinforcement Learning, LLM
 
 ### ⭐️ GitHub Stats
 
